@@ -1,16 +1,38 @@
-# whatsapp_clone
+# WhatsApp Clone
 
-A new Flutter project.
+This is one of my initial projects in flutter. The goal was to learn and practice the basics of flutter. I realised that **cloning** a software application is the best way to learn with motivation. A leap of faith!
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Created the UI of most popular messaging app Whatsapp. Replicated the UI and some functionalities as close as possible.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack and Others
+
+-Flutter
+-VS Code
+
+## ScreenShots📷
+
+<img src = "screenshots/device-2020-10-24-192617.png" height="900"> <img src ="device-2020-10-24-192731.png" height="900">
+<img src = "device-2020-10-24-192754.png" height="900">
+
+## My Notes:
+
+Tabbar -> \[Tabs], TabbarView
+TODO: UI fix, Story View
+
+## Resourses
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Online Documentation](https://flutter.dev/docs)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributors
+
+**Maintainer:** [Siddhant Chogle](https://github.com/SiddhantChogle)
+
+## License
+
+Project is published under the [MIT license](/LICENSE.md).
+
+Feel free to ⭐ and fork Repo to modify/bug fix/improve the code as you want.
