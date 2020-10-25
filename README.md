@@ -6,26 +6,25 @@ This is one of my initial projects in flutter. The goal was to learn and practic
 
 Created the UI of most popular messaging app Whatsapp. Replicated the UI and some functionalities as close as possible.
 
-## Tech Stack and Others
+## ScreenShots 📷
 
--Flutter
--VS Code
+<img src = "screenshots/device-2020-10-24-192617.png" height="600"> <img src ="screenshots/device-2020-10-24-192731.png" height="600"> <img src = "screenshots/device-2020-10-24-192754.png" height="600">
 
-## ScreenShots📷
+## Technology Stack and Others
 
-<img src = "screenshots/device-2020-10-24-192617.png" height="900"> <img src ="device-2020-10-24-192731.png" height="900">
-<img src = "device-2020-10-24-192754.png" height="900">
-
-## My Notes:
-
-Tabbar -> \[Tabs], TabbarView
-TODO: UI fix, Story View
+- Flutter
+- VS Code
 
 ## Resourses
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 - [Online Documentation](https://flutter.dev/docs)
+
+## My Notes
+
+Tabbar -> \[Tabs], TabbarView\
+**TODO:** UI fix, Story View
 
 ## Contributors
 
