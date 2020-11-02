@@ -46,13 +46,11 @@ class _WhatsAppHomeState extends State<WhatsAppHome>
             iconSize: 22,
             onPressed: () => print("Search"),
           ),
-          SizedBox(width: 16),
           IconButton(
             icon: Icon(Icons.more_vert),
             iconSize: 22,
             onPressed: () => print("Options"),
           ),
-          SizedBox(width: 14),
         ],
         bottom: TabBar(
             controller: _tabController,

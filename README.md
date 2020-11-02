@@ -8,7 +8,7 @@ Created the UI of most popular messaging app Whatsapp. Replicated the UI and som
 
 ## ScreenShots 📷
 
-<img src = "screenshots/device-2020-10-24-192617.png" height="600"> <img src ="screenshots/device-2020-10-24-192731.png" height="600"> <img src = "screenshots/device-2020-10-24-192754.png" height="600">
+<img src = "screenshots/device-2020-11-02-233756.png" height="600"> <img src ="screenshots/device-2020-11-02-233849.png" height="600"> <img src = "screenshots/device-2020-11-02-233921.png" height="600">
 
 ## Technology Stack and Others
 
@@ -23,7 +23,7 @@ Created the UI of most popular messaging app Whatsapp. Replicated the UI and som
 
 ## My Notes
 
-Tabbar -> \[Tabs], TabbarView\
+create tabbarController manually or use DefaultTabController(), Tabbar -> \[Tabs], TabbarView\
 **TODO:** UI fix, Story View
 
 ## Contributors
